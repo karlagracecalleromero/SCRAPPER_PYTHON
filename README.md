@@ -88,7 +88,7 @@ Corre el programa con la siguiente linea del codigo donde se te abre una interfa
 Esto nos va a generar un CSV en la carpeta "PROCESSED" dentro de la carpeta "DATA" llamado "cleaned_products.csv" o "cleaned_products_tablets.csv"
 
 Dependiendo a la opción que se escoga "Opcio 1: Laptops" o "Opcion 2: Tablets"
-!["Interfaz gráfica"]("EntornoGui.png")
+!["Interfaz gráfica"]("SCRAPPER_PYTHON/EntornoGui.png")
 
 ## Notebooks
 Además, el proyecto cuenta con dos archivos de Jupyter Notebook (exploration.ipynb y explorationplotly.ipynb), que permiten visualizar los datos obtenidos de la página scrapeada. En estos notebooks, se utilizan gráficos de Plotly para mostrar histogramas y estadísticas como máximo, mínimo y porcentajes.
